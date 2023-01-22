@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49d8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Parlantes",
+  "price": 1140,
+  "description": "Parlantes PC marca Next",
+  "code": "CS-4",
+  "image": "imagen4.com",
+  "stock": 202
+},{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49d9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Teclado Gamer",
+  "price": 2250,
+  "description": "Teclado gamer económico",
+  "code": "CS-5",
+  "image": "imagen5.com",
+  "stock": 140
+},{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49da"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Teclado Genius",
+  "price": 3360,
+  "description": "Teclado Marca Genius",
+  "code": "CS-6",
+  "image": "imagen6.com",
+  "stock": 347
+},{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49db"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Fuente de energía 100 wats",
+  "price": 4470,
+  "description": "Fuente de Energía para PC Gamer",
+  "code": "CS-7",
+  "image": "imagen7.com",
+  "stock": 0
+},{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49dc"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Memoria RAM 1gb",
+  "price": 5000,
+  "description": "Tarjeta de memoria ram",
+  "code": "CS-8",
+  "image": "imagen8.com",
+  "stock": 0
+},{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49dd"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Impresora",
+  "price": 3450,
+  "description": "Impresora marca HP",
+  "code": "CS-9",
+  "image": "imagen9.com",
+  "stock": 1000
+},{
+  "_id": {
+    "$oid": "63cd60cdfeb9f418418d49de"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404045849"
+    }
+  },
+  "title": "Kit Mouse + Teclado",
+  "price": 2860,
+  "description": "Kit de teclado y mouse marca Genius",
+  "code": "CS-10",
+  "image": "imagen10.com",
+  "stock": 1100
+},{
+  "_id": {
+    "$oid": "63cd61d1feb9f418418d49df"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1674404304952"
+    }
+  },
+  "title": "Disco duro externo",
+  "price": 3860,
+  "description": "Disco duro externo de 64gb",
+  "code": "CS-11",
+  "image": "imagen11.com",
+  "stock": 640
+}]
